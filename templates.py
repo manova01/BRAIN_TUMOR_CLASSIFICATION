@@ -17,6 +17,7 @@ list_of_files = [
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
+    "templates/index.html",
     "dvc.yaml",
     "test.py",
     "params.yaml",

@@ -1,0 +1,18 @@
+pandas
+numpy
+pathlib
+tensorflow
+dvc
+notebook
+matplotlib
+seaborn
+python-box==6.0.2
+PyYAML
+tqdm
+ensure==1.0.2  # Double-check this package
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+-e .
